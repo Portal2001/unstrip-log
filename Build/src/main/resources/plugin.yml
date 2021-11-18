@@ -1,8 +1,0 @@
-name: "unstriplog"
-version: "beta-0.1"
-main: "vb.$unstriplog.PluginMain"
-api-version: 1.13
-author: "fickletcell"
-description: "unstrip any log"
-commands:
-permissions:
