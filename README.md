@@ -11,6 +11,11 @@ Features:-
 - optimized code
 - good for all types of server
 - all types of wood supported
+- vault support
+- fully config able
+
+Dependency:-
+- vault
 
 
 permission:-
