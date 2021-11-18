@@ -32,3 +32,7 @@ plugin have no config till now because fun dont need edit.
 more features are on the way
 
 Buy me a coffee https://ko-fi.com/fickletcell
+
+
+![image](https://user-images.githubusercontent.com/74851280/142442728-9bb61a8a-7d32-4179-90b6-4f476ce094b0.png)
+
