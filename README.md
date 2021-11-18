@@ -11,6 +11,16 @@ Features:-
 - easy to use
 - optimized code
 - good for all types of server
+- all types of wood supported
+
+
+permission:-
+- unstrip.oak
+- unstrip.acacia
+- unstrip.birch
+- unstrip.dark_oak
+- unstrip.spruce
+- unstrip.jungle
 
 Disclamer:-
 
