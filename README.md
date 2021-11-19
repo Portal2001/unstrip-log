@@ -11,7 +11,7 @@ Features:-
 - optimized code
 - good for all types of server
 - all types of wood supported
-- vault support
+- vault support(economy support)
 - fully config able
 
 Dependency:-
@@ -25,6 +25,7 @@ permission:-
 - unstrip.dark_oak
 - unstrip.spruce
 - unstrip.jungle
+- unstrip.path
 
 Disclamer:-
 
