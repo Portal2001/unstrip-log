@@ -31,10 +31,6 @@ Disclamer:-
 
 your are welcome to suggest any changers
 
-plugin is in beta not for big production server
-
-plugin have no config till now because fun dont need edit.
-
 more features are on the way
 
 Buy me a coffee https://ko-fi.com/fickletcell
