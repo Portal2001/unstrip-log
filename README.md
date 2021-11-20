@@ -4,6 +4,9 @@ Minecraft plugin to unstrip logs just by right clicking(too Annoying when you mi
 Minecraft server support
 - 1.13,1.14,1.15,1.16,1.17,1.17.1
 
+spigot link
+https://www.spigotmc.org/resources/%E2%9C%85unstrip-log-plus%E2%9C%85-with-vault-support%E2%98%84%EF%B8%8F.97720/
+
 Features:-
 - no lag
 - permission based
