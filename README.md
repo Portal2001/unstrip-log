@@ -37,8 +37,8 @@ your are welcome to suggest any changers
 more features are on the way
 
 Buy me a coffee 
-- https://ko-fi.com/fickletcell
-- https://paypal.me/fickletcell?country.x=IN&locale.x=en_GB
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/fickletcell?)
 
 
 ![image](https://user-images.githubusercontent.com/74851280/142442728-9bb61a8a-7d32-4179-90b6-4f476ce094b0.png)
